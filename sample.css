@@ -1,0 +1,38 @@
+body {
+  font-family: verdana;
+  color: #353c44;
+}
+
+div {
+  width: 100vw;
+  height: 50vh;
+}
+
+img {
+  width: 200px;
+}
+
+.purple {
+  color: purple;
+  font-size: 3em;
+}
+
+.turquoise {
+  color: turquoise;
+  font-size: 0.5em;
+}
+
+.orange {
+  color: orange;
+  font-size: 50pt;
+}
+
+#foods {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+#colours {
+  display: flex;
+  justify-content: space-around;
+}
